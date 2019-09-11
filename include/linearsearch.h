@@ -1,6 +1,8 @@
-//
-// Created by vscilab on 9/11/2019.
-//
+/*
+ Created by vscilab on 9/11/2019 by Josh Huggins.
+ If you are not Josh Huggins, DO NOT EDIT.
+ Ask Alan on how to change Projects, Thanks.
+*/
 
 #ifndef EX01_LINEARSEARC_LINEARSEARCH_H
 #define EX01_LINEARSEARC_LINEARSEARCH_H
